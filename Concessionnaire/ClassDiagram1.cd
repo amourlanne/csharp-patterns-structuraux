@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Concessionnaire.Véhicule">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Véhicule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concessionnaire.VéhiculeSansOption">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAQAAAABAAAA=</HashCode>
+      <FileName>VéhiculeSansOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concessionnaire.VéhiculeAvecOption">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="Concessionnaire.Véhicule" FixedToPoint="true">
+      <Path>
+        <Point X="4" Y="1.988" />
+        <Point X="4" Y="2" />
+        <Point X="5.25" Y="2" />
+        <Point X="5.25" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>VéhiculeAvecOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concessionnaire.VehiculeAvecOptionToitOuvrant">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehiculeAvecOptionToitOuvrant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concessionnaire.VéhiculeAvecOptionPeintureMétalisée">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VéhiculeAvecOptionPeintureMétalisée.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concessionnaire.VéhiculeAvecOptionJantesAlu">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VéhiculeAvecOptionJantesAlu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExpressionsMathematiques.Operateur">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAQAIAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operateur.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurPlus">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperateurPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurMoins">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperateurMoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurMult">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperateurMult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurDiv">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperateurDiv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperandeConstante">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAACIAAAAAQAAAAAAAAAQAAAAgAAAAAAA=</HashCode>
+      <FileName>OperandeConstante.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperandeX">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAIAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperandeX.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperandeConstanteFactory">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperandeConstanteFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperandeXFactory">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperandeXFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurFactory">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperateurFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurDivFactory">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperateurDivFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurMoinsFactory">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperateurMoinsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurMultFactory">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperateurMultFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionsMathematiques.OperateurPlusFactory">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\OperateurPlusFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ExpressionsMathematiques.INoeud">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INoeud.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
